@@ -1,0 +1,16 @@
+{
+  "name": "rsstojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "rss-to-json": "^1.0.4"
+  }
+}
